@@ -1,0 +1,15 @@
+Data	Categoria	Descrição	Forma de Pagamento	Valor (R$)
+01/03/2026	Moradia	Aluguel	Transferência	1500
+02/03/2026	Alimentação	Supermercado	Cartão de Débito	450
+03/03/2026	Transporte	Combustível	Cartão de Crédito	280
+05/03/2026	Saúde	Plano de Saúde	Débito Automático	320
+07/03/2026	Lazer	Cinema com a família	Dinheiro	85
+08/03/2026	Alimentação	Restaurante	Cartão de Crédito	120
+10/03/2026	Educação	Curso Online	Pix	199
+12/03/2026	Moradia	Conta de Luz	Boleto	175
+13/03/2026	Moradia	Conta de Água	Boleto	90
+15/03/2026	Internet	Plano de Internet	Débito Automático	120
+17/03/2026	Vestuário	Tênis novo	Cartão de Crédito	350
+20/03/2026	Alimentação	Feira semanal	Dinheiro	130
+22/03/2026	Transporte	Aplicativo (Uber)	Pix	65
+25/03/2026	Lazer	Streaming (Netflix)	Cartão de Crédito	55
